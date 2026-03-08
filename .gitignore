@@ -15,5 +15,5 @@ dist-ssr
 # Editor directories and files
 
 /.vs/VIBEWeb
-/.vscode
+/.vs
 /obj/Debug
