@@ -17,3 +17,4 @@ dist-ssr
 /.vs/VIBEWeb
 /.vs
 /obj/Debug
+/vibeweb.esproj.user
